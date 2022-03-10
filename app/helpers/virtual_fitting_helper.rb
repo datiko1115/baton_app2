@@ -1,0 +1,2 @@
+module VirtualFittingHelper
+end
